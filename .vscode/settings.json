@@ -1,0 +1,15 @@
+{
+  "cSpell.words": [
+    "affiliatestats",
+    "catmull",
+    "Choropleth",
+    "datepicker",
+    "nivo",
+    "serie",
+    "superadmin"
+  ],
+  "prettier.jsxSingleQuote": false,
+  "prettier.singleQuote": false,
+  "javascript.preferences.quoteStyle": "double",
+  "typescript.preferences.quoteStyle": "double"
+}
